@@ -1,4 +1,16 @@
-# Video Sentiment Analysis
+## Video Sentiment Analysis Project Overview
+TikTok has become extremely popular with its innovative short-form videos. What has
+really contributed to its immense appeal is a powerful recommendation engine tailored to its user’s
+interests, constantly refining their “For You” page. However, because a large proportion of its
+viewers are young children, filtering for upsetting content (drugs, violence, sex) is vital to
+protecting their interests.
+
+In this project, a multi-modal classifier (text sentiment, music sentiment, facial expression) is built
+to deem if a video has a positive, negative, or mixed sentiment. Three types of features from a
+video clip were extracted, consisting of audio, text, and facial expressions. The respective model’s
+output of these 3 parts were combined in classifying the overall sentiment. Finally, a web
+application was also developed to demonstrate the integrated pipeline, and for users to upload a
+video to see the predicted sentiment.
 
 For more information about this project, you may visit this link for the report/write-up:
 https://drive.google.com/file/d/19l2cZ05PRm4C1L4K_xAyZ2NPUesGhLvi/view?usp=sharing
