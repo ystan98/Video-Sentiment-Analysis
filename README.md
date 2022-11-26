@@ -19,7 +19,9 @@ CLIENT_SECRET="""
 
 Step 1) Upload Video
 ![image](https://user-images.githubusercontent.com/66168700/204093139-9b7645a5-cbcd-44c4-a297-4109a78e2dc8.png)
+
 Step 2) Wait
 ![image](https://user-images.githubusercontent.com/66168700/204093148-6e517ebb-b6be-4145-ab7b-82f5f37882e5.png)
+
 Step 3) Get results!
 ![image](https://user-images.githubusercontent.com/66168700/204093158-b2873d25-7cda-40c2-b35f-cc3ecdc471da.png)
