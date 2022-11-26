@@ -1,4 +1,7 @@
-# IS460 - Machine Learning Application Project
+# Video Sentiment Analysis
+
+For more information about this project, you may visit this link for the report/write-up:
+https://drive.google.com/file/d/19l2cZ05PRm4C1L4K_xAyZ2NPUesGhLvi/view?usp=sharing
 
 ## How to run the project
 1. Create your python virtual environment - (Optional)
