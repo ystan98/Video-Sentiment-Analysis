@@ -6,6 +6,7 @@
 3. go into the directory ``integrated/webapp/``
 4. Run Command ``python app.py``
 5. Open your browser and go to http://localhost:5000/
+6. Try and upload a video and see the magic :)
 
 ## Important to note 
 Some External modules/api require API token to access their services, they may have expired. List of modules that require API token are as follows:
