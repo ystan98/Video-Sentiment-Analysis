@@ -2,8 +2,8 @@
 
 ## How to run the project
 1. Create your python virtual environment - (Optional)
-2.  Run Command `` pip install -r requirements.txt `` (Do note that it might take awhile as there are a lot of dependencies)
-3. go into the directory ``integrated/webapp/``
+2. Run Command `` pip install -r requirements.txt `` (Do note that it might take awhile as there are a lot of dependencies)
+3. Go into the directory ``integrated/webapp/``
 4. Run Command ``python app.py``
 5. Open your browser and go to http://localhost:5000/
 6. Try and upload a video and see the magic :)
