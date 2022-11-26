@@ -18,7 +18,8 @@ CLIENT_SECRET="""
 
 
 Step 1) Upload Video
-![image](https://user-images.githubusercontent.com/66168700/204093139-9b7645a5-cbcd-44c4-a297-4109a78e2dc8.png)
+![image](https://user-images.githubusercontent.com/66168700/204093297-e44e3f48-5f4c-4a57-90fb-9b932231bf6f.png)
+
 
 
 Step 2) Wait
